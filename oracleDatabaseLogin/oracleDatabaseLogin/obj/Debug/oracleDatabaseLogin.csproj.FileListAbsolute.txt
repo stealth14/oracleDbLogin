@@ -1,0 +1,12 @@
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\bin\Debug\oracleDatabaseLogin.exe.config
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\bin\Debug\oracleDatabaseLogin.exe
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\bin\Debug\oracleDatabaseLogin.pdb
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\bin\Debug\MaterialSkin.dll
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\obj\Debug\oracleDatabaseLogin.csprojAssemblyReference.cache
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\obj\Debug\oracleDatabaseLogin.Properties.Resources.resources
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\obj\Debug\oracleDatabaseLogin.csproj.GenerateResource.cache
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\obj\Debug\oracleDatabaseLogin.csproj.CopyComplete
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\obj\Debug\oracleDatabaseLogin.exe
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\obj\Debug\oracleDatabaseLogin.pdb
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\obj\Debug\oracleDatabaseLogin.WinInicioSesion.resources
+C:\Users\ronny\source\repos\oracleDatabaseLogin\oracleDatabaseLogin\obj\Debug\oracleDatabaseLogin.WinAreaPrincipal.resources
